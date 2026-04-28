@@ -4,9 +4,6 @@
 **Department of Computer Science and Engineering**
 *Spring 2026
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-049fd9?style=for-the-badge&logo=cisco&logoColor=white)
 
 </div>
